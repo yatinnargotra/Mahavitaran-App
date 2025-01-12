@@ -4,6 +4,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:myloginpage/login.dart';
 import 'authScreen.dart';
 import 'Home.dart';
+import 'AdminRegister.dart';
 
 
 
@@ -13,7 +14,3 @@ void main() async {
 
   runApp(AuthScreen());
 }
-
-
-
-

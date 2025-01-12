@@ -47,6 +47,7 @@ dependencies:
   url_launcher: ^6.0.10
   video_player: ^2.2.19
   webview_flutter: ^3.0.4
+  carousel_slider: ^4.0.0
 
 
 
